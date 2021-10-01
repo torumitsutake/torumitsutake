@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **torumitsutake/torumitsutake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+## Github State
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=torumitsutake&count_private=true&show_icons=true&theme=tokyonight" />
@@ -22,3 +24,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torumitsutake&theme=tokyonight&count_private=true" />
 </a>
+
+---
+
+## Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=torumitsutake&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
