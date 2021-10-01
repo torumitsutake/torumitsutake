@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 ---
 
 ## Github Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=torumitsutake&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"> 
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=torumitsutake&theme=onedark)">
+<a>
