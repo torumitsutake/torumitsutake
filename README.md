@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ## Github Profile Trophy
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=torumitsutake&theme=onedark)">
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=torumitsutake&theme=onedark)">
 <a>
